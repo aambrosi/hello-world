@@ -10,5 +10,6 @@ package newpackage;
  * @author Andrea
  */
 public class nuovaclasse {
-    //prova
+    System.out.println("FUCKALLLL");
+    
 }
