@@ -11,5 +11,6 @@ package newpackage;
  */
 public class nuovaclasse {
     System.out.println("FUCKALLLL");
+    System.out.println("ciao");
     
 }
