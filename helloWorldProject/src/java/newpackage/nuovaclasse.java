@@ -14,6 +14,7 @@ public class nuovaclasse {
     public static void main() {
         System.out.println("FUCKALLLL");
         System.out.println("ciao");
+        System.out.println("provabranch");
     }
 
 }
