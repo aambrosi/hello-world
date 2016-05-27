@@ -10,7 +10,10 @@ package newpackage;
  * @author Andrea
  */
 public class nuovaclasse {
-    System.out.println("FUCKALLLL");
-    System.out.println("ciao");
-    
+
+    public static void main() {
+        System.out.println("FUCKALLLL");
+        System.out.println("ciao");
+    }
+
 }
